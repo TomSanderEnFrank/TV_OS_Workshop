@@ -1,6 +1,3 @@
-# TV_OS_Workshop
-Maak je eigen socket applicatie!
-
 Stappenplan
 ===================
 Voor deze workshop gaat er met sockets gewerkt worden. Er zal een Android applicatie gemaakt worden en deze applicatie zal via sockets gaan communiceren met een webserver.
